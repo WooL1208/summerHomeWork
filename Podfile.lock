@@ -1,0 +1,26 @@
+PODS:
+  - Realm (5.2.0):
+    - Realm/Headers (= 5.2.0)
+  - Realm/Headers (5.2.0)
+  - RealmSwift (5.2.0):
+    - Realm (= 5.2.0)
+  - SwiftKeychainWrapper (3.4.0)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Realm: f749c723e272f08fdf1939af5e61d2bd09b203e8
+  RealmSwift: bf0ab78b52c5bafba8b3ad73be8dfb4c1ea5cf01
+  SwiftKeychainWrapper: 6fc49fbf7d4a6b0772917acb0e53a1639f6078d6
+
+PODFILE CHECKSUM: d7182b6d4936c081e31b8b1e13f4f992d78993d9
+
+COCOAPODS: 1.9.3
